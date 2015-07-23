@@ -1,0 +1,4 @@
+# List the patterns to block in this file
+# Lines starting with "#" are ignored
+# Patterns are interpreted as regex patterns, so single words will work
+Dell

@@ -1,0 +1,2 @@
+import KillTheAppz
+KillTheAppz.main()

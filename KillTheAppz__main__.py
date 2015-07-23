@@ -1,2 +1,0 @@
-import KillTheAppz
-KillTheAppz.main()
